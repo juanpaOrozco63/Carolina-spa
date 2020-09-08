@@ -156,3 +156,46 @@ body {
 
 
 /*Fin Seccion Servicios */
+
+
+/* Seccion Horarios */
+
+.horario {
+    background-color: #88eedd;
+    color: white
+}
+
+.horario h2 {
+    font-size: 2.2rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.horario .table {
+    border: 2px solid #e082a8;
+}
+
+.horario .table thead {
+    background-color: #e082a8;
+}
+
+.horario .table td,
+.horario .table thead th {
+    border: none;
+}
+
+.horario .table tbody tr td {
+    padding: .35rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+}
+
+.bg-horario {
+    background-image: url(../img/bg_horarios.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 400px;
+    background-size: cover;
+}
+
+
+/*Fin Seccion Horarios */
