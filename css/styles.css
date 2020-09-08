@@ -1,21 +1,27 @@
 /*** Add your styles here **/
 
+
+/* General */
+
 body {
-    background-color: #cccc;
+    background-color: #f8f8f8;
 }
 
-h2 {
+.encabezado {
     font-size: 2.6 rem;
     font-family: 'Lato', sans-serif;
     color: black;
     line-height: 2.6rem;
 }
 
-h2 span {
+.encabezado span {
     font-size: 3.8rem;
     font-family: 'Italianno', cursive;
     color: #e082a8;
 }
+
+
+/* Fin General */
 
 
 /** Sociales **/
@@ -63,6 +69,9 @@ h2 span {
 }
 
 
+/* Fin sociales */
+
+
 /* Navegacion */
 
 .navegacion {
@@ -101,6 +110,9 @@ h2 span {
 }
 
 
+/* Fin Navegacion */
+
+
 /* Carousel */
 
 .carousel-caption h3 {
@@ -115,3 +127,32 @@ h2 span {
     color: #979797;
     font-size: 1.5rem;
 }
+
+
+/*Fin Carousel */
+
+
+/* Seccion Servicios */
+
+.imagen-servicio img {
+    border: 6px solid #fff;
+    transition: 300ms all;
+}
+
+.imagen-servicio img:hover {
+    transform: scale(1.2) rotate(10deg);
+}
+
+.servicio-info {
+    background-color: white;
+    margin-top: -5rem;
+}
+
+.servicio-info .btn-primary {
+    border-radius: 0;
+    background-color: #e082a8;
+    border: none;
+}
+
+
+/*Fin Seccion Servicios */
