@@ -199,3 +199,36 @@ body {
 
 
 /*Fin Seccion Horarios */
+
+
+/* Seccion Productos */
+
+.productos .card {
+    border: none;
+}
+
+.productos .card a {
+    color: black;
+}
+
+.productos .card a:hover {
+    text-decoration: none;
+}
+
+.productos .card h3 {
+    color: #e082a8;
+    font-size: 1.2rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.productos .card p {
+    font-size: .8rem;
+}
+
+.productos .card .precio {
+    font-size: 1.6rem;
+    color: #979797;
+}
+
+
+/*Fin Seccion Productos */
