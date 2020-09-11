@@ -314,7 +314,15 @@ body {
 /* Fin imagen principal */
 
 
-/* Imagenes del modal */
+/* Sidebar */
+
+aside {
+    background-color: #88eedd;
+    color: white;
+}
+
+
+/*Fin Sidebar */
 
 
 /*Fin Pagina Nosotros */
