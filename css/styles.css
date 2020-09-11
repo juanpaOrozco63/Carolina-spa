@@ -281,13 +281,13 @@ body {
 /* Fin Citas */
 
 
-/* Footer */
-
-
-/*Fin Footer */
+/* -------------------------------------------------- */
 
 
 /*Pagina Nosotros */
+
+
+/* Imagen Principal */
 
 .hero {
     position: relative;
@@ -303,6 +303,18 @@ body {
     color: #ffff;
     font-size: 2.8rem;
 }
+
+.contenido-principal {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Fin imagen principal */
+
+
+/* Imagenes del modal */
 
 
 /*Fin Pagina Nosotros */
