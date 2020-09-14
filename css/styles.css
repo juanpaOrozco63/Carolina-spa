@@ -326,3 +326,30 @@ aside {
 
 
 /*Fin Pagina Nosotros */
+
+
+/* Pagina Servicios */
+
+
+/* Collapse */
+
+#servicios .card-header {
+    background-color: #e082a8;
+    padding: 0 1.25rem;
+}
+
+#servicios .card-header .btn-link {
+    color: white;
+    font-size: 1.6rem;
+    font-family: 'Lato', sans-serif;
+}
+
+#servicios .card-body {
+    font-size: 1.4rem;
+}
+
+
+/* Fin Collapse */
+
+
+/* Fin Pagina Servicios */
